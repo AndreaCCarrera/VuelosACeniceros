@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VuelosACeniceros", "VuelosACeniceros\VuelosACeniceros.csproj", "{68704905-1547-4504-A1B1-39135FE4BBC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{AA344910-A395-404E-A12E-2E7E1D73A6C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{324AD3A5-730A-4703-B58F-E358BBF7B96C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68704905-1547-4504-A1B1-39135FE4BBC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68704905-1547-4504-A1B1-39135FE4BBC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68704905-1547-4504-A1B1-39135FE4BBC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68704905-1547-4504-A1B1-39135FE4BBC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA344910-A395-404E-A12E-2E7E1D73A6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA344910-A395-404E-A12E-2E7E1D73A6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA344910-A395-404E-A12E-2E7E1D73A6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA344910-A395-404E-A12E-2E7E1D73A6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324AD3A5-730A-4703-B58F-E358BBF7B96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324AD3A5-730A-4703-B58F-E358BBF7B96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324AD3A5-730A-4703-B58F-E358BBF7B96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324AD3A5-730A-4703-B58F-E358BBF7B96C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F065047-418F-45E6-9405-6B05047A811A}
+	EndGlobalSection
+EndGlobal
